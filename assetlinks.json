@@ -1,0 +1,15 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.idlvr.apps",
+      "sha256_cert_fingerprints": [
+        "9D:F0:7C:FB:BE:69:97:1B:01:4C:98:32:33:EC:C6:7F:E2:E8:65:93:3A:BE:55:D9:7D:84:6F:CA:43:95:06:56",
+        "6A:CD:25:B1:85:8A:BF:00:BB:73:25:7C:E1:20:5F:03:D2:4D:7C:8A:3B:CA:AD:44:F4:83:77:6A:D3:26:68:FE",
+        "F3:5B:DC:BB:F3:B7:DA:71:3C:EB:0C:55:E0:3D:76:02:A8:3D:76:65:CB:B8:42:9E:AB:05:7E:E2:14:30:1E:B4",
+        "7C:A1:5B:1F:4D:68:80:6B:54:B7:28:82:6B:8D:34:49:37:D2:5E:69:08:C6:85:C4:7C:9F:6B:99:09:D8:54:94"
+      ]
+    }
+  }
+]

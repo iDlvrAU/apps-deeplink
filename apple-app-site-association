@@ -1,0 +1,21 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "78877UQE66.com.idlvr.apps.temp",
+        "paths": [
+          "NOT /_/*",
+          "/*"
+        ]
+      },
+      {
+        "appID": "V436FFWVGB.com.idlvr.apps",
+        "paths": [
+          "NOT /_/*",
+          "/*"
+        ]
+      }
+    ]
+  }
+}
